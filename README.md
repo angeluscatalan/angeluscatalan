@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Angelus+Catalan;CS+Student+%7C+Full-Stack+Developer;Passionate+about+Tech+%26+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Angelus+Catalan;CS+Student+%7C+Full-Stack+Developer;Passionate+about+Tech+and+Learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 
 ### 📫 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:angeluscatalan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/angeluscatalan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
@@ -35,7 +35,7 @@
 
 ### 🧰 Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
