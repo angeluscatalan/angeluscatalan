@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Angelus</h1>
 <h3 align="center">I am a BS Computer Science student at Adamson University with a strong passion for technology and software development. Skilled in both front-end and back-end development using JavaScript, C#, Python, Java, and HTML/CSS. Experienced with React, Node.js, Express, and MySQL, including building RESTful APIs and working with middleware. I am eager to apply my skills through collaborative projects to gain real-world experience and grow as a full-stack developer.</h3>
 
-- 📫 How to reach me **angeluscatalan@gmail.com**
+- 👨‍💻 Some notable projects: [https://barangay-58-pasay-city.vercel.app](https://barangay-58-pasay-city.vercel.app)
+
+- 📫 How to reach me: **angeluscatalan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
