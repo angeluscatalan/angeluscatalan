@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Angelus+Catalan;CS+Student+%7C+Full-Stack+Developer;Passionate+about+Tech+and+Learning" alt="Typing SVG" />
-</p>
+<div align="center" style="background-color:#0d1117; padding: 20px; border-radius: 10px;">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Angelus+Catalan;CS+Student+%7C+Full-Stack+Developer;I+love+Tech+and+Learning" alt="Typing SVG" />
+</div>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270px" alt="Coding gif">
